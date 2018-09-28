@@ -1,0 +1,18 @@
+{
+    "name": "MyBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3982/api/messages",
+            "id": "0f10d740-c2f8-11e8-9d8b-e1b7d308f95c",
+            "name": "http://localhost:3982/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Dima\\Desktop\\Data&AI\\Repozit\\BotLab\\MyBot.bot"
+}
